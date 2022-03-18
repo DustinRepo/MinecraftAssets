@@ -1,4 +1,4 @@
-package me.dustin.langextractor.util;
+package me.dustin.minecraftassets.util;
 
 import java.io.*;
 import java.nio.channels.FileChannel;
