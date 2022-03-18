@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LangExtractor.iml" filepath="$PROJECT_DIR$/LangExtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinecraftAssets.iml" filepath="$PROJECT_DIR$/MinecraftAssets.iml" />
     </modules>
   </component>
 </project>
