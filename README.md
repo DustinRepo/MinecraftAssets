@@ -1,4 +1,4 @@
-# Lang Extractor
+# MinecraftAssets
 A simple java program designed to automatically grab and collect all Minecraft asset files
 
 ## How to use
