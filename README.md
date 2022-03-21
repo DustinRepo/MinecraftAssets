@@ -12,7 +12,7 @@ A simple java program designed to automatically grab and collect all Minecraft a
 
 ## For custom Minecraft directories
 If you don't have minecraft in your normal location, you can specify it using --mcDir=/path/to/.minecraft For example:
-`java -jar --version=1.18 --mcDir=/home/user/.minecraft`
+`java -jar MinecraftAssets.jar --version=1.18 --mcDir=/home/user/.minecraft`
 
 ## What does this do?
 Reads the MC assets index file for the specified version, that tell us what the file is named and where it is (based on the hash),
